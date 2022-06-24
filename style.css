@@ -1,5 +1,5 @@
 body {
-  background: #342e37;
+  background: #8a77b3;
 }
 
 .container {
@@ -36,6 +36,7 @@ form {
   margin: 0 auto;
   border-radius: 20px;
   box-shadow: 0 6px #2e282a;
+  margin-bottom: 2rem;
 }
 
 .btn a {
